@@ -9,3 +9,4 @@ fs.writeFile('writeFile.txt','This is a test','utf8',function(err){
         return console.error(err);
     }
 });
+console.log("done");
