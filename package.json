@@ -1,0 +1,22 @@
+{
+  "name": "personalgithub",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "personalGithub",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaynela/myFirstNodeJSProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaynela/myFirstNodeJSProject/issues"
+  },
+  "homepage": "https://github.com/sanjaynela/myFirstNodeJSProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
