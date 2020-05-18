@@ -1,9 +1,9 @@
-var calc = require('./calc.js');
+var calc = require("./calc.js");
 
-result1 = calc.add(5,3);
+result1 = calc.add(5, 3);
 console.log("Result1 : " + result1);
 
-result2 = calc.minus(5,3);
+result2 = calc.minus(5, 3);
 console.log("Result2 : " + result2);
 
 result3 = calc.prime(2);
